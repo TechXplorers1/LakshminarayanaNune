@@ -13,6 +13,7 @@ import {
 } from "@/components/ui/carousel";
 import Autoplay from "embla-carousel-autoplay";
 import { Quote } from "lucide-react";
+import Profile from "../assets/lakshminarayanaprofile.png";
 
 const testimonials = [
     {
@@ -20,7 +21,7 @@ const testimonials = [
         "This course transformed my career… gave me the skills to land my dream job in AI.",
       name: "Data Science Student",
       company: "HAC Graduate",
-      avatar: "https://placehold.co/100x100.png",
+      avatar: Profile,
       hint: "man portrait",
     },
     {
