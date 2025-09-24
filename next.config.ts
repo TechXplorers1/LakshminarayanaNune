@@ -44,6 +44,9 @@ const nextConfig: NextConfig = {
 
   // ✅ Permanently disable the bottom-left “N” dev badge
   devIndicators: false,
+
+  // ✅ Enable static export
+
 }
 
 export default nextConfig
