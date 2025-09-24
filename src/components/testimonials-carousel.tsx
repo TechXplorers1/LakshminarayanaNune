@@ -29,7 +29,7 @@ const testimonials = [
         "Best coach I’ve ever had. Superb coach, with all practical insights. You won't regret it.",
       name: "Former Student",
       company: "via LinkedIn",
-      avatar: "https://placehold.co/100x100.png",
+      avatar: Profile,
       hint: "woman portrait",
     },
     {
@@ -37,7 +37,7 @@ const testimonials = [
           "Great coach... you won’t regret it. Thank you for your guidance and support.",
         name: "Agile Professional",
         company: "via LinkedIn",
-        avatar: "https://placehold.co/100x100.png",
+        avatar: Profile,
         hint: "person portrait",
     },
   ];
