@@ -13,7 +13,7 @@ import {
 } from "@/components/ui/carousel";
 import Autoplay from "embla-carousel-autoplay";
 import { Quote } from "lucide-react";
-import Profile from "../assets/lakshminarayanaprofile.png";
+import Profile from "../assets/Profile.jpg";
 
 const testimonials = [
     {
